@@ -1,0 +1,432 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	
+	
+	
+
+}
+
+/* Extra Small Devices, Phones */
+
+
+/* Custom, iPhone Retina */
+@media screen and (min-width : 320px) and (max-width: 479px){
+	#header{text-align: center;}
+	.header_content span{
+		display: inline-block;
+		width: 100%;
+		font-size: 20px;
+		line-height: 25px;
+		letter-spacing: 1px;
+	}
+	.header_content{margin-top: 20px;}
+	.contact{
+		margin: 3% 0 1% 5%;
+		text-align: left;
+		float: none;
+
+	}
+	.yslugi a{
+		clear: both;
+		text-align: left;
+		margin-right: 0;
+	}
+	#content_info{
+		margin: 0;
+		padding: 0;
+	}
+	.slaider h1{
+		font-size: 1.4em;
+		line-height: 1.8em;
+		letter-spacing: 1px;
+		text-align: left;
+		padding: 0;
+		margin: 10px 0 0 0;
+	}
+	.slaider p{
+		width: 95%;
+		font-size: 1.3em;
+		line-height: 1.5em;
+	}
+	.slaider button.btn_s{
+		width: 100%;
+		margin-bottom: 10px;
+	}
+	.slaider a{
+		font-size: 1.2em;
+		line-height: 3.5em;	
+	}
+	.slaider_foto{display: none;}
+	#conditions,#network,#banner,#like_you{
+		height: auto;
+		background-repeat: repeat-y;
+	}
+	#conditions .ic_border{	margin-top: 10px;}
+	#conditions h2{
+		font-size: 22px;
+    	line-height: 22px;
+    }
+	#conditions h3{
+		font-size: 18px;
+    	line-height: 20px;
+    }
+    #conditions span{ line-height: 16px;  }
+    #conditions .t2_descr{margin-bottom: 15px;}
+    #network{background-position: top center;}
+    #network h2 {
+    	font-size: 24px;
+    	line-height: 35px;
+    }
+    #network .info{
+    	width: 100%;
+    	text-align: center;
+    }
+    #network .info .t3_descr{
+		float: none;
+		width: 100%;
+    }
+	#money h2 {
+		font-size: 16px;
+    	line-height: 20px;
+    	text-align: center;
+    }
+    #money span {text-align: left;}
+    #money .t_descr{
+    	width: 90%;
+    	margin-bottom: 30px;
+    }
+    #banner{
+    	margin-top: 10px ;
+		padding-top: 15px;
+		padding-bottom: 10px;
+	}
+	#banner span {
+    	font-size: 20px;
+    	line-height: 30px;
+    	margin-top: 10px;
+    }
+    #like_you .box{
+    	display: block;
+    	width: 86%;
+    	top: 14%;
+    	right: 7%;
+    }
+    #like_you .window_info{
+    	display: block;
+    	width: 83%;
+    	height: auto;
+    	padding: 10px;
+    	margin: 25px auto;
+    }
+    #like_you .logo_sm{float: none;}
+    #like_you .window_info_content p{
+    	padding-bottom: 5px;
+    	line-height: 16px;
+    }
+    #like_you .author{float: none;}
+    #partners .part{
+    	margin-bottom: 10px;
+    	width: 100%;
+    	margin-left: 15%;
+    }
+    #comment h2{line-height: 41px;  }
+    .window_comment span{
+		display: inline-block;
+		width: 95%;
+		font-size: 14px;
+		line-height: 16px;
+    }
+    .window_comment{
+    	float: none;
+    	padding: 10px;
+    }
+    #separator h2{
+    	display: inline-block;
+    	font-size: 20px;
+    }
+    #separator span{
+    	display: block;
+    	font-size: 32px;
+    }
+    #factoring h2{
+    	width: 90%;
+    	font-size: 29px;
+    	line-height: 35px;
+    	margin-left: 5%;
+    }
+    .m_descr{padding-bottom: 15px;}
+    #factoring .ic_border{ 	margin-top: 10px;}
+    #forma{
+    	background-repeat: repeat-y;
+    	height: auto;
+    }
+    #forma .photo{margin: 25px 0 0 0; }
+    #forma .info_contact{float: none;}
+    #forma .info_contact p{
+		padding-top: 0;
+		font-size: 1.9em;
+		line-height: 1.5em;
+		letter-spacing: 0;
+    }
+    #forma .info_contact p strong{
+    	display: inline-block;
+		width: 100%;
+    }
+    
+    #forma .info_contact input{
+    	display: inline-block;
+    	width: 100%;
+    }
+    #forma button.btn{
+    	width: 100%;
+    	font-size: 16px;
+    	padding-left: 20px;
+    	margin-bottom: 20px;
+    }
+}
+
+
+
+/*==========  Mobile First Method  ==========*/
+@media screen and (min-width : 480px) and (max-width: 639px){
+	#header{text-align: center;}
+	.header_content span{
+		display: inline-block;
+		width: 100%;
+		font-size: 2.0em;
+		line-height: 1.2em;
+		letter-spacing: 1px;
+	}
+	.header_content{margin-top: 5%;}
+	.contact{
+		margin: 3% 0 1% 0;
+		text-align: center;
+		float: none;
+	}
+	ul{
+		margin: 0;
+		padding: 0;
+	}
+	.content_info_wrap .yslugi{
+		margin-left: 3%;
+	}
+	.yslugi a{
+		clear: both;
+		text-align: left;
+		margin-right: 0;
+		font-size: 0.8em;
+		font-weight: bold;
+	}
+	#content_info{
+		margin: 0;
+		padding: 0;
+	}
+	.slaider h1{
+		font-size: 1.4em;
+		line-height: 1.8em;
+		letter-spacing: 1px;
+		text-align: left;
+		padding: 0;
+		margin: 10px 0 0 0;
+	}
+	.slaider p{
+		width: 95%;
+		font-size: 1.5em;
+		line-height: 1.3em;
+
+	}
+	.slaider button.btn_s{
+		width: 60%;
+		margin: 0 0 2% 18%;
+	}
+	.slaider a{
+		font-size: 1.2em;
+		line-height: 3.5em;	
+	}
+	.slaider_foto{display: none;}
+	#conditions,#network,#banner,#like_you{
+		height: auto;
+		background-repeat: repeat-y;
+	}
+	#conditions .ic_border{	margin-top: 10px;}
+	#conditions h2{
+		font-size: 22px;
+    	line-height: 22px;
+    }
+	#conditions h3{
+		font-size: 18px;
+    	line-height: 20px;
+    }
+    #conditions span{ line-height: 16px;  }
+    #conditions .t2_descr{margin-bottom: 15px;}
+    #network{background-position: top center;}
+    #network h2 {
+    	font-size: 24px;
+    	line-height: 35px;
+    }
+    #network .info{
+    	width: 100%;
+    	text-align: center;
+    }
+    #network .info .t3_descr{
+		float: none;
+		width: 100%;
+    }
+	#money h2 {
+		font-size: 16px;
+    	line-height: 20px;
+    	text-align: center;
+    }
+    #money span {text-align: left;}
+    #money .t_descr{
+    	width: 90%;
+    	margin-bottom: 30px;
+    }
+    #banner{
+    	margin-top: 10px ;
+		padding-top: 15px;
+		padding-bottom: 10px;
+	}
+	#banner span {
+    	font-size: 20px;
+    	line-height: 30px;
+    	margin-top: 10px;
+    }
+    #like_you .box{
+    	display: block;
+    	width: 86%;
+    	top: 14%;
+    	right: 7%;
+    }
+    #like_you .window_info{
+    	display: block;
+    	width: 83%;
+    	height: auto;
+    	padding: 10px;
+    	margin: 25px auto;
+    }
+    #like_you .logo_sm{float: none;}
+    #like_you .window_info_content p{
+    	padding-bottom: 5px;
+    	line-height: 16px;
+    }
+    #like_you .author{float: none;}
+    #partners .part{
+    	margin-bottom: 10px;
+    	width: 45%;
+    	margin-left: 3%;
+    }
+    #comment h2{line-height: 41px;  }
+    .window_comment span{
+		display: inline-block;
+		width: 95%;
+		font-size: 14px;
+		line-height: 16px;
+    }
+    .window_comment{
+    	float: none;
+    	padding: 10px;
+    }
+    #separator h2{
+    	display: inline-block;
+    	font-size: 20px;
+    }
+    #separator span{
+    	display: block;
+    	font-size: 32px;
+    }
+    #factoring h2{
+    	width: 90%;
+    	font-size: 29px;
+    	line-height: 35px;
+    	margin-left: 5%;
+    }
+    .m_descr{padding-bottom: 15px;}
+    #factoring .ic_border{ 	margin-top: 10px;}
+    #forma{
+    	background-repeat: repeat-y;
+    	height: auto;
+    	margin-bottom: 10px;
+    }
+    #forma .photo{margin: 25px 0 0 0; }
+    #forma .info_contact{float: none;}
+    #forma .info_contact p{
+		padding-top: 0;
+		font-size: 1.9em;
+		line-height: 1.5em;
+		letter-spacing: 0;
+    }
+    #forma .info_contact p strong{
+    	display: inline-block;
+		width: 100%;
+    }
+    form{
+    	display: inline-block;
+    	width: 100%;
+    	height: auto;
+    }
+    #forma .info_contact input{
+    	display: inline-block;
+    	width: 30%;
+    	margin-right: 2%;
+    	
+    }
+    #forma button.btn{
+    	display: inline-block;
+    	width: 30%;
+    	font-size: 13px;
+    	padding-left: 20px;
+    	margin-bottom: 20px;
+    	
+
+    }
+}
+
+
+/* Extra Small Devices, Phones */
+
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+	.header_content span {
+		font-size: 22px;
+		line-height: 26px;
+	}
+	.contact span,
+	.contact span strong
+	{
+		font-size: 20px;
+		line-height: 20px;
+	}
+	.contact a{
+		font-size: ;
+	}
+
+}
+
+/* Medium Devices, Desktops */
+
+
+ /* Large Devices, Wide Screens */
+@media screen  (min-width : 1200px) and (max-width: 1400px){
+	.window_info{
+		display: inline-block;
+		width: 100%;
+		text-align: center;
+	}
+}
+@media (min-height: 720px) and (min-width : 1400px) {
+	
+}
