@@ -1,0 +1,23 @@
+{
+  "name": "gf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolyshnitsyn1988/Goodf.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kolyshnitsyn1988/Goodf.github.io/issues"
+  },
+  "homepage": "https://github.com/kolyshnitsyn1988/Goodf.github.io#readme",
+  "devDependencies": {
+    "webpack": "^4.16.4",
+    "webpack-cli": "^3.1.0"
+  }
+}
