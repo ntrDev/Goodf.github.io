@@ -1,741 +1,859 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000325}}
+#partners .__section_descr, #comment .__section_descr, #factoring .section_descr {
+  display: block;
+  font-size: 31px;
+  line-height: 50px;
+  color: #133a81;
+  font-family: "OpenSans_Semibold";
+  padding: 58px 0 53px 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000333}}
 body {
   font-family: "OpenSans_Regular", sans-serif;
   font-weight: normal;
   color: #25262a;
-  font-size: 14px;
+  font-size: 16px;
   min-width: 320px;
   position: relative;
   line-height: 1.6;
+  margin: 1px 0;
+  padding: 0;
   -webkit-font-smoothing: antialised;
-}
+  overflow-x: hidden; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000346}}
 body input:focus:required:invalid,
 body textarea:focus:required:invalid {
-  color: red;
-}
+  color: red; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000349}}
 body input:required:valid,
 body textarea:required:valid {
-  color: green;
-}
+  color: green; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000352}}
 a {
   outline: none;
-}
+  text-decoration: none; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000355}}
+ul, li {
+  margin: 0;
+  padding: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000358}}
 .hidden {
-  display: none;
-}
+  display: none; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000360}}
+.container {
+  width: 1170px;
+  margin: 0 auto; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000363}}
+.top_separator {
+  display: flex; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000365}}
 .line_up_1, .line_up_2, .line_up_3 {
+  display: flex;
   height: 3px;
   margin: 0;
   padding: 0;
-  float: left;
-  margin-bottom: 30px;
-}
+  flex-direction: row;
+  margin-bottom: 30px; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000372}}
 .line_up_1 {
   width: 15%;
-  background-color: #15b799;
-}
+  background-color: #15b799; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000375}}
 .line_up_2 {
   width: 56%;
-  background-color: #0082ad;
-}
+  background-color: #0082ad; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000378}}
 .line_up_3 {
   width: 29%;
-  background-color: #133a81;
-}
+  background-color: #133a81; }
 
-.logo_wrapp {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000381}}
+.section__descr__blue, .section__descr__white {
   display: block;
-}
-.logo_wrapp a.logo {
-  display: inline-block;
-  width: 140px;
-  height: 90px;
-  background: url(../img/logo.png) no-repeat;
-  outline: none;
-}
-
-.header_content span {
-  font-size: 20px;
-  line-height: 36px;
-  color: #25262a;
-  font-family: "OpenSans_Light", sans-serif;
-}
-.header_content span strong {
-  color: #133a81;
-}
-
-.contact {
-  display: block;
-  float: right;
-  text-align: right;
-  vertical-align: text-bottom;
-  font-size: 28px;
-  line-height: 30px;
-}
-.contact span strong {
-  font-size: 28px;
-  line-height: 30px;
-  color: #15b799;
-}
-.contact span {
-  font-size: 28px;
-  line-height: 30px;
-  font-weight: normal;
-  font-family: "OpenSans_Light", sans-serif;
-  color: #15b799;
-}
-.contact .mail_font {
-  font-size: 14px;
-  line-height: 30px;
-  font-family: "OpenSans_Light", sans-serif;
-  color: #133a81;
-}
-.contact .mail_font:hover {
-  text-decoration: underline;
-}
-
-#content_info {
-  margin-top: 25px;
-}
-
-.content_info_wrap {
-  display: block;
-  background: #ff7070 url(../img/slaider_wrap.png) no-repeat;
-  background-position: top center;
-}
-.content_info_wrap .nav_menu {
-  display: inline-block;
-  width: 100%;
-  background-color: #ececec;
-}
-.content_info_wrap .yslugi {
-  text-transform: uppercase;
-  float: left;
-  list-style: none;
-  font-size: 15px;
-  line-height: 36px;
-  text-align: left;
-}
-.content_info_wrap .yslugi a {
-  color: #25262a;
-  text-decoration: none;
-  cursor: pointer;
-}
-.content_info_wrap .yslugi a:hover {
-  background-color: #0082ad;
-  color: #ffffff;
-}
-
-.slaider {
-  position: relative;
-}
-.slaider h1 {
-  font-size: 34px;
-  line-height: 45px;
-  font-family: "OpenSans_Bold";
-  font-weight: bold;
-  text-shadow: 3px 0 3px rgba(0, 0, 0, 0.1);
-  color: #fff;
-  letter-spacing: 2px;
-}
-.slaider p {
-  font-size: 18px;
-  line-height: 30px;
-  color: #fff;
-  font-weight: normal;
-}
-.slaider button.btn_s {
-  display: inline-block;
-  width: 255px;
-  height: 50px;
-  margin-bottom: 25px;
-  background: linear-gradient(#ffffff, #d7d7d7);
-  border: none;
-  font-size: 16px;
-  line-height: 36px;
-  text-align: center;
   font-family: "OpenSans_Semibold";
-  color: #333333;
-  border-radius: 4px;
-  -webkit-box-shadow: 2px 0 2px rgba(224, 97, 97, 0.5);
-  -moz-box-shadow: 2px 0 2px rgba(224, 97, 97, 0.5);
-  -o-box-shadow: 2px 0 2px rgba(224, 97, 97, 0.5);
-  box-shadow: 2px 0 2px rgba(224, 97, 97, 0.5);
-  -webkit-box-shadow: inset 0 0 2px white;
-  -moz-box-shadow: inset 0 0 2px white;
-  -o-box-shadow: inset 0 0 2px white;
-  box-shadow: inset 0 0 2px white;
-}
-.slaider a {
-  font-family: "OpenSans_Light";
-  font-size: 14px;
-  line-height: 30px;
-  color: #e7e7e7;
-  font-weight: normal;
-  letter-spacing: 1px;
-}
-
-.slaider_foto {
-  display: block;
-  height: 410px;
-  background: url(../img/slaider_photo.png) no-repeat;
-}
-
-#money {
-  text-align: center;
-}
-#money h2 {
-  font-family: "OpenSans_Semibold";
-  font-size: 34px;
+  font-size: 2.125em;
   line-height: 50px;
   color: #133a81;
-}
-#money .ic_wrapp {
-  display: inline-block;
-  width: 106px;
-  height: 106px;
-  border: 2px solid #31bfa5;
-  border-radius: 50%;
-  padding-top: 30px;
-  margin-bottom: 10px;
-}
-#money .dollar {
-  display: inline-block;
-  width: 56px;
-  height: 33px;
-  background: url(../img/icons/ic_dollar.png) no-repeat;
-  margin-top: 5px;
-}
-#money .clock {
-  display: inline-block;
-  width: 48px;
-  height: 48px;
-  background: url(../img/icons/ic_clock.png) no-repeat;
-}
-#money .monitor {
-  display: inline-block;
-  width: 54px;
-  height: 47px;
-  background: url(../img/icons/ic_monitor.png) no-repeat;
-}
-#money h3 {
-  font-family: "OpenSans_Semibold";
-  font-size: 16px;
-  line-height: 18px;
-  color: #1c1c1c;
-}
-#money .t_descr {
-  display: inline-block;
-  width: 75%;
-  font-size: 14px;
-  line-height: 20px;
-  color: #000000;
-  margin-bottom: 70px;
   text-align: center;
-}
+  letter-spacing: 2px; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000389}}
+.section__descr__white {
+  color: #ffffff; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000391}}
+.items__wrapp {
+  display: flex;
+  align-content: center;
+  justify-content: space-around;
+  padding: 40px 0 70px 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000396}}
+  .items__wrapp .item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 33%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003104}}
+#header .header_wrapp {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003109}}
+  #header .header_wrapp .logo_wrapp {
+    flex-direction: row; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003111}}
+    #header .header_wrapp .logo_wrapp .logo {
+      display: flex;
+      width: 140px;
+      height: 90px;
+      background: url(../img/logo.png) no-repeat;
+      outline: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003117}}
+  #header .header_wrapp .header_content {
+    font-size: 1.25em;
+    line-height: 36px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003120}}
+    #header .header_wrapp .header_content .__header_text_f {
+      color: #133a81;
+      font-family: "OpenSans_Semibold";
+      font-weight: 400; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003124}}
+    #header .header_wrapp .header_content .__header_text_s {
+      color: #25262a;
+      font-family: "OpenSans_Light"; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003127}}
+  #header .header_wrapp .contact {
+    line-height: 30px;
+    letter-spacing: 0.7px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003130}}
+    #header .header_wrapp .contact .phon_number_wrapp, #header .header_wrapp .contact .cont_mail_wrapp {
+      display: flex;
+      align-items: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003133}}
+    #header .header_wrapp .contact .__contact_phone_f, #header .header_wrapp .contact .__contact_phone_s {
+      color: #15b799;
+      font-size: 1.75em;
+      font-family: "OpenSans_Light"; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003137}}
+    #header .header_wrapp .contact .__contact_phone_s {
+      font-family: "OpenSans_Regular"; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003139}}
+    #header .header_wrapp .contact .mail_font {
+      font-size: 0.875em;
+      color: #133a81;
+      text-decoration: underline; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003143}}
+#content_info {
+  margin-top: 25px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003145}}
+  #content_info .content_info_wrap {
+    background: #ff7070 url(../img/slaider_wrap.png) no-repeat; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003147}}
+    #content_info .content_info_wrap .nav_mnu_wrapp {
+      display: block; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003149}}
+      #content_info .content_info_wrap .nav_mnu_wrapp .nav_menu {
+        display: flex;
+        flex-wrap: wrap;
+        background: #ececec;
+        justify-content: space-around; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003154}}
+        #content_info .content_info_wrap .nav_mnu_wrapp .nav_menu .yslugi {
+          text-transform: uppercase;
+          list-style: none;
+          font-size: 0.94em;
+          line-height: 36px;
+          text-align: left; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003160}}
+          #content_info .content_info_wrap .nav_mnu_wrapp .nav_menu .yslugi a {
+            color: #25262a;
+            text-decoration: none;
+            cursor: pointer; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003164}}
+          #content_info .content_info_wrap .nav_mnu_wrapp .nav_menu .yslugi a:hover {
+            background-color: #0082ad;
+            color: #ffffff; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003167}}
+    #content_info .content_info_wrap .slaider, #content_info .content_info_wrap .row {
+      display: flex;
+      justify-content: space-around; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003170}}
+      #content_info .content_info_wrap .slaider .row, #content_info .content_info_wrap .row .row {
+        flex-basis: 40%;
+        flex-flow: column; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003173}}
+        #content_info .content_info_wrap .slaider .row h1, #content_info .content_info_wrap .row .row h1 {
+          font-size: 2.125em;
+          line-height: 45px;
+          font-family: "OpenSans_Bold";
+          text-shadow: 3px 0 3px rgba(0, 0, 0, 0.1);
+          color: #ffffff;
+          letter-spacing: 2px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003180}}
+        #content_info .content_info_wrap .slaider .row p, #content_info .content_info_wrap .row .row p {
+          font-size: 1.125em;
+          line-height: 30px;
+          color: #ffffff;
+          font-weight: normal; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003185}}
+        #content_info .content_info_wrap .slaider .row button.btn_s, #content_info .content_info_wrap .row .row button.btn_s {
+          display: inline-block;
+          width: 255px;
+          height: 50px;
+          margin-bottom: 25px;
+          background: linear-gradient(#ffffff, #d7d7d7);
+          border: none;
+          font-size: 1em;
+          line-height: 36px;
+          text-align: center;
+          font-family: "OpenSans_Semibold";
+          color: #333333;
+          border-radius: 4px;
+          -webkit-box-shadow: 2px 0 2px rgba(224, 97, 97, 0.5);
+          -moz-box-shadow: 2px 0 2px rgba(224, 97, 97, 0.5);
+          -o-box-shadow: 2px 0 2px rgba(224, 97, 97, 0.5);
+          box-shadow: 2px 0 2px rgba(224, 97, 97, 0.5);
+          -webkit-box-shadow: inset 0 0 2px white;
+          -moz-box-shadow: inset 0 0 2px white;
+          -o-box-shadow: inset 0 0 2px white;
+          box-shadow: inset 0 0 2px white; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003206}}
+        #content_info .content_info_wrap .slaider .row a, #content_info .content_info_wrap .row .row a {
+          font-family: "OpenSans_Light";
+          font-size: 0.875em;
+          line-height: 30px;
+          color: #e7e7e7;
+          font-weight: normal;
+          letter-spacing: 1px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003213}}
+      #content_info .content_info_wrap .slaider .slaider_foto, #content_info .content_info_wrap .row .slaider_foto {
+        display: flex;
+        flex-basis: 38%;
+        height: 410px;
+        background: url(../img/slaider_photo.png) no-repeat; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003218}}
+#money {
+  padding-top: 56px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003220}}
+  #money .circle {
+    display: flex;
+    width: 108px;
+    height: 107px;
+    border: 1px solid #31bfa5;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003228}}
+    #money .circle .dollar {
+      width: 56px;
+      height: 33px;
+      background: url(../img/icons/ic_dollar.png) no-repeat; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003232}}
+    #money .circle .clock {
+      width: 48px;
+      height: 48px;
+      background: url(../img/icons/ic_clock.png) no-repeat; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003236}}
+    #money .circle .monitor {
+      width: 54px;
+      height: 47px;
+      background: url(../img/icons/ic_monitor.png) no-repeat; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003240}}
+  #money .item__name {
+    display: flex;
+    font-family: "OpenSans_Semibold";
+    font-size: 1em;
+    line-height: 18px;
+    color: #1c1c1c; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003246}}
+  #money .item__descr {
+    display: inline-block;
+    width: 75%;
+    font-size: 0.875em;
+    line-height: 20px;
+    color: #000000;
+    margin-bottom: 20px;
+    text-align: center; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003255}}
 #conditions {
-  display: block;
-  height: 449px;
-  text-align: center;
+  padding: 35px 0 0 0;
   background: url(../img/cond_bg.jpg) no-repeat;
   background-position: left center;
-  color: #fff;
-}
-#conditions h2 {
-  font-family: "OpenSans_Semibold";
-  font-size: 34px;
-  line-height: 50px;
-  color: #fff;
-  letter-spacing: 2px;
-}
-#conditions .ic_border {
-  display: inline-block;
-  width: 120px;
-  height: 120px;
-  border-radius: 50%;
-  border: 2px solid #31bfa5;
-  padding-top: 20px;
-}
-#conditions .plainer {
-  display: inline-block;
-  width: 58px;
-  height: 58px;
-  background: url(../img/icons/ic_planer.png) no-repeat;
-  margin-top: 5px;
-}
-#conditions .wait {
-  display: inline-block;
-  width: 65px;
-  height: 58px;
-  background: url(../img/icons/ic_wait_time.png) no-repeat;
-  margin: 7px 7px 0 0;
-}
-#conditions .bag_money {
-  display: inline-block;
-  width: 50px;
-  height: 68px;
-  background: url(../img/icons/ic_bag_dollar.png) no-repeat;
-}
-#conditions h3 {
-  font-family: "OpenSans_Regular";
-  font-size: 20px;
-  line-height: 28px;
-  text-transform: uppercase;
-}
-#conditions h3:first-child {
-  line-height: 18px;
-}
-#conditions .t2_descr {
-  display: inline-block;
-  font-family: "Roboto_Bold";
-  font-size: 16px;
-  line-height: 20px;
-}
+  color: #ffffff;
+  text-align: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003261}}
+  #conditions .circle_s {
+    display: flex;
+    width: 122px;
+    height: 121px;
+    border-radius: 50%;
+    border: 2px solid #3cc3aa;
+    justify-content: center;
+    align-items: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003269}}
+    #conditions .circle_s .plainer {
+      width: 58px;
+      height: 58px;
+      background: url(../img/icons/ic_planer.png) no-repeat; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003273}}
+    #conditions .circle_s .wait {
+      width: 65px;
+      height: 58px;
+      background: url(../img/icons/ic_wait_time.png) no-repeat;
+      margin: 7px 7px 0 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003278}}
+    #conditions .circle_s .bag_money {
+      width: 50px;
+      height: 68px;
+      background: url(../img/icons/ic_bag_dollar.png) no-repeat; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003283}}
+  #conditions .item:first-child {
+    line-height: 30px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003286}}
+  #conditions .it__name {
+    font-family: "OpenSans_Regular";
+    font-size: 1.25em;
+    line-height: 28px;
+    text-transform: uppercase;
+    margin-top: 30px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003292}}
+    #conditions .it__name:first-child {
+      line-height: 18px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003294}}
+  #conditions .it__descr {
+    font-family: "Roboto_Bold";
+    font-size: 1em;
+    line-height: 20px;
+    margin: 22px 2px 0 2px;
+    display: flex; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003300}}
+    #conditions .it__descr:first-child {
+      justify-content: flex-end; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003302}}
 #network {
-  height: 675px;
+  padding: 58px 0 0 0;
   background: url(../img/network_bg.jpg) no-repeat;
-  background-position: top right;
-}
-#network h2 {
-  font-size: 34px;
-  line-height: 45px;
-  font-family: "OpenSans_Bold";
-  color: #4ac6b7;
-  text-transform: uppercase;
-}
-#network p {
-  font-family: "OpenSans_Regular";
-  font-size: 18px;
-  line-height: 25px;
-}
-#network .info {
-  display: block;
-  width: 60%;
-  padding-bottom: 55px;
-}
-#network .info .avto {
-  display: block;
-  width: 75px;
-  height: 36px;
-  background: url(../img/icons/ic_avto.png) no-repeat;
-  margin: 10px 0 0 20px;
-  float: left;
-}
-#network .info .t3_descr {
-  display: block;
-  width: 70%;
-  float: right;
-  margin-top: 15px;
-}
-#network .info .t3_descr .text_gl {
-  display: block;
-  font-size: 16px;
-  line-height: 20px;
-  font-family: "Roboto_Bold";
-}
-#network .info .defense {
-  display: block;
-  width: 43px;
-  height: 50px;
-  background: url(../img/icons/ic_defense.png) no-repeat;
-  margin: 10px 0 0 37px;
-}
+  background-position: top right; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003306}}
+  #network .section__name {
+    font-size: 2.125em;
+    line-height: 45px;
+    font-family: "OpenSans_Bold";
+    color: #4ac6b7;
+    text-transform: uppercase; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003312}}
+  #network p {
+    font-family: "OpenSans_Regular";
+    font-size: 1.125em;
+    line-height: 25px;
+    width: 65%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003317}}
+    #network p > strong {
+      width: 70%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003319}}
+  #network .info {
+    display: flex;
+    width: 57%;
+    padding: 25px 0 55px 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003323}}
+    #network .info .avto {
+      display: block;
+      width: 75px;
+      height: 36px;
+      background: url(../img/icons/ic_avto.png) no-repeat; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003328}}
+    #network .info .t3_descr {
+      display: flex;
+      height: 120px;
+      width: 50%;
+      align-items: center;
+      flex-wrap: wrap;
+      margin-left: 20px;
+      font-family: "OpenSans_Regular";
+      color: #000000; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003337}}
+      #network .info .t3_descr .text_gl {
+        display: block;
+        font-size: 1em;
+        line-height: 20px;
+        font-family: "Roboto_Bold";
+        text-transform: uppercase;
+        color: #000000; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003344}}
+    #network .info .defense {
+      display: block;
+      width: 43px;
+      height: 50px;
+      background: url(../img/icons/ic_defense.png) no-repeat; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003349}}
 #banner {
   height: 338px;
-  color: #fff;
-  background: url(../img/banner.png) no-repeat;
-}
-#banner span {
-  font-size: 34px;
-  text-shadow: 3px 0 3px rgba(0, 0, 0, 0.1);
-  font-family: "OpenSans_Light";
-}
-#banner span > strong {
-  font-family: "OpenSans_Bold";
-}
+  color: #ffffff;
+  background-color: #4ac6b7; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003353}}
+  #banner .row {
+    padding-top: 60px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003355}}
+    #banner .row .banner__text_wrapp {
+      font-size: 2.125em;
+      text-shadow: 2px 3px 3px rgba(0, 0, 0, 0.1);
+      font-family: "OpenSans_Light";
+      line-height: 45px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003360}}
+      #banner .row .banner__text_wrapp .__banner_text_f, #banner .row .banner__text_wrapp .__banner_text_s {
+        font-family: "OpenSans_Bold";
+        display: block;
+        width: 72%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003364}}
+      #banner .row .banner__text_wrapp .__banner_text_s {
+        line-height: 49px; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003366}}
 #like_you {
-  display: inline-block;
   height: 506px;
   text-align: center;
   background: url(../img/like_you_bg.jpg) no-repeat;
   background-position: top center;
-}
-#like_you .window_info {
-  display: inline-block;
-  width: 48%;
-  background-color: #fff;
-  margin-top: 60px;
-  padding: 20px;
-  z-index: 9999999;
   position: relative;
-}
-#like_you .window_info_content {
-  text-align: left;
-}
-#like_you .window_info_content span {
-  font-size: 16px;
-  line-height: 18px;
-  font-family: "OpenSans_Bold";
-  color: #000;
-}
-#like_you .window_info_content p {
-  font-size: 14px;
-  line-height: 22px;
-  font-family: "OpenSans_Light";
-  padding-bottom: 75px;
-}
-#like_you .logo_sm {
-  float: left;
-}
-#like_you .author {
-  float: right;
-  font-size: 16px;
-  line-height: 25px;
-  color: #000;
-  font-family: "OpenSans_Bold";
-}
-#like_you .box {
-  display: inline-block;
-  width: 335px;
-  height: 325px;
-  background: #0082ad;
-  position: absolute;
-  top: 110px;
-  right: 70px;
-  z-index: -3px;
-}
+  z-index: 99; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003373}}
+  #like_you .row {
+    display: flex;
+    justify-content: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003376}}
+    #like_you .row .window_info {
+      width: 48%;
+      background-color: #f3f3f3;
+      padding: 33px 30px;
+      color: #000000;
+      line-height: 25px;
+      text-align: left;
+      margin-top: 60px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003384}}
+      #like_you .row .window_info .__window_info_text {
+        display: block;
+        font-size: 1.125em;
+        font-family: "OpenSans_Bold"; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003388}}
+      #like_you .row .window_info .__window_info_descr {
+        display: block;
+        font-size: 1em;
+        font-family: "OpenSans_Light";
+        margin-top: 20px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003393}}
+      #like_you .row .window_info .window_info_wrapp {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 70px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003397}}
+        #like_you .row .window_info .window_info_wrapp .author {
+          display: flex;
+          align-items: flex-end;
+          font-size: 1em;
+          line-height: 25px;
+          color: #000000;
+          font-family: "OpenSans_Bold"; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003404}}
+      #like_you .row .window_info .box {
+        display: inline-block;
+        width: 335px;
+        height: 325px;
+        background: #0082ad;
+        position: absolute;
+        top: 8rem;
+        right: 14rem;
+        z-index: -1; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003414}}
 #partners {
-  display: block;
-  width: 100%;
+  height: 380px;
   text-align: center;
-  background-color: #ededed;
-}
-#partners h2 {
-  font-size: 31px;
-  line-height: 50px;
-  color: #133a81;
-  font-weight: bold;
-  font-family: "OpenSans_Semibold";
-}
-#partners .part {
-  display: block;
-  width: 20%;
-  height: 168px;
-  float: left;
-  margin-bottom: 70px;
-}
-#partners .part .part_1, #partners .part .part_2, #partners .part .part_3, #partners .part .part_4, #partners .part .part_5 {
-  display: block;
-  height: 168px;
-  background: url(../img/solid.jpg) no-repeat;
-}
-#partners .part .part_2 {
-  background: url(../img/innosvet.jpg) no-repeat;
-}
-#partners .part .part_3 {
-  background: url(../img/stroidom.jpg) no-repeat;
-}
-#partners .part .part_4 {
-  background: url(../img/sozidant.jpg) no-repeat;
-}
-#partners .part .part_5 {
-  background: url(../img/pim.jpg) no-repeat;
-}
-#partners .part a {
-  width: 100%;
-  outline: none;
-}
+  background-color: #ededed; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003420}}
+  #partners .row {
+    display: flex;
+    justify-content: space-around; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003423}}
+    #partners .row .part_item {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+      flex-basis: 17%;
+      height: 168px;
+      margin-bottom: 70px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003431}}
+      #partners .row .part_item a.part_1, #partners .row .part_item a.part_2, #partners .row .part_item a.part_3, #partners .row .part_item a.part_4, #partners .row .part_item a.part_5 {
+        display: flex;
+        width: 100%;
+        height: 168px;
+        background: url(../img/solid.jpg) no-repeat;
+        justify-content: center;
+        align-items: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003438}}
+      #partners .row .part_item a.part_2 {
+        background: url(../img/innosvet.jpg) no-repeat; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003440}}
+      #partners .row .part_item a.part_3 {
+        background: url(../img/stroidom.jpg) no-repeat; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003442}}
+      #partners .row .part_item a.part_4 {
+        background: url(../img/sozidant.jpg) no-repeat; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003444}}
+      #partners .row .part_item a.part_5 {
+        background: url(../img/pim.jpg) no-repeat; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003447}}
 #comment {
-  display: block;
-  background: url(../img/comment_bg.jpg) no-repeat;
-  background-position: top center;
-  text-align: center;
-}
+  text-align: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003451}}
+  #comment .row {
+    display: flex;
+    justify-content: space-between; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003454}}
+    #comment .row .window_comment_wrapp {
+      display: flex;
+      flex-direction: column;
+      width: 48.5%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003458}}
+      #comment .row .window_comment_wrapp .window_comment {
+        display: flex;
+        height: 181px;
+        background-color: #0082ad;
+        color: #ffffff;
+        padding: 29px 0 26px 29px;
+        border-radius: 6px;
+        margin-bottom: 30px;
+        flex-basis: 41%;
+        justify-content: center;
+        overflow: hidden;
+        text-align: left;
+        font-family: "OpenSans_Regular";
+        font-style: italic; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003472}}
+        #comment .row .window_comment_wrapp .window_comment span {
+          font-size: 0.875em;
+          line-height: 22px;
+          letter-spacing: 0.15px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003476}}
+      #comment .row .window_comment_wrapp .manager {
+        text-align: left;
+        font-size: 0.9375em;
+        line-height: 25px;
+        font-family: "OpenSans_Semibold";
+        color: #071c22;
+        font-weight: 400; }
 
-#comment h2 {
-  font-size: 31px;
-  line-height: 50px;
-  color: #133a81;
-  font-weight: bold;
-  font-family: "OpenSans_Semibold";
-}
-
-.window_comment {
-  display: block;
-  float: left;
-  height: 180px;
-  background-color: #0082ad;
-  color: #fff;
-  padding: 30px;
-  border-radius: 6px;
-  margin-bottom: 30px;
-}
-
-.window_comment span {
-  font-family: "OpenSans_LightItalic";
-}
-
-#comment p.manager {
-  text-align: left;
-  font-size: 15px;
-  line-height: 25px;
-  font-family: "OpenSans_Semibold";
-  color: #071c22;
-  font-weight: 400;
-}
-
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003483}}
 #separator {
-  display: block;
+  display: flex;
   height: 170px;
   text-align: center;
   background: url(../img/fon_slaider_1.png) no-repeat;
-}
+  justify-content: center;
+  align-items: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003490}}
+  #separator .__sep_descr, #separator .__descr_f {
+    color: #ffffff;
+    font-family: "OpenSans_Bold";
+    line-height: 59px;
+    font-size: 2.5em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003495}}
+  #separator .__descr_f {
+    line-height: 50px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003497}}
+  #separator .__phone_f, #separator .__phone_s {
+    color: #133a81;
+    font-family: "OpenSans_Light";
+    font-size: 2.687em;
+    line-height: 30px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003502}}
+  #separator .__phone_s {
+    font-family: "OpenSans_Regular"; }
 
-#separator h2 {
-  font-size: 34px;
-  color: #fff;
-}
-
-#separator span {
-  color: #133a81;
-  font-weight: 400;
-  font-family: "OpenSans_Light";
-  font-size: 40px;
-}
-
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003505}}
 #factoring {
   display: block;
-  background-color: #fff;
+  background-color: #ffffff;
   text-align: center;
-}
-#factoring h2 {
-  font-size: 34px;
-  line-height: 50px;
-  color: #133a81;
-  font-weight: bold;
-  font-family: "OpenSans_Semibold";
-}
-#factoring .bag_money2 {
-  display: inline-block;
-  width: 45px;
-  height: 62px;
-  background: url(../img/icons/ic_bag_money_p.png) no-repeat;
-}
-#factoring .dollar {
-  display: inline-block;
-  width: 56px;
-  height: 33px;
-  background: url(../img/icons/ic_dollar.png) no-repeat;
-  margin: 12px 0 0 3px;
-}
-#factoring .coins {
-  display: inline-block;
-  width: 87px;
-  height: 39px;
-  background: url(../img/icons/ic_coins.png) no-repeat;
-  margin: 10px 0 0 3px;
-}
-#factoring h3.money {
-  color: #1fba9d;
-  font-size: 25px;
-  line-height: 20px;
-}
+  margin-bottom: 20px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003512}}
+  #factoring .row {
+    display: flex;
+    justify-content: space-around; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003515}}
+    #factoring .row .factoring_item {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+      flex-basis: 16%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003521}}
+      #factoring .row .factoring_item .bag_money2, #factoring .row .factoring_item .dollar, #factoring .row .factoring_item .coins {
+        display: inline-block;
+        width: 45px;
+        height: 62px;
+        background: url(../img/icons/ic_bag_money_p.png) no-repeat; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003526}}
+      #factoring .row .factoring_item .dollar {
+        width: 56px;
+        height: 33px;
+        background: url(../img/icons/ic_dollar.png) no-repeat; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003530}}
+      #factoring .row .factoring_item .coins {
+        width: 87px;
+        height: 39px;
+        background: url(../img/icons/ic_coins.png) no-repeat; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003534}}
+      #factoring .row .factoring_item h3.money {
+        color: #1fba9d;
+        font-size: 1.5625em;
+        line-height: 20px;
+        font-family: "Roboto_Black";
+        font-weight: 900; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003540}}
+      #factoring .row .factoring_item .m_descr {
+        display: block;
+        font-size: 1em;
+        line-height: 20px;
+        font-family: "Roboto_Bold";
+        color: #000000; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003546}}
+    #factoring .row .fact_separ {
+      display: flex;
+      height: 90px;
+      align-items: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003550}}
+      #factoring .row .fact_separ .__fact_separ_wrapp {
+        display: flex;
+        flex-direction: column;
+        align-items: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003554}}
+        #factoring .row .fact_separ .__fact_separ_wrapp .__fact_separ_text {
+          font-size: 1em;
+          text-transform: uppercase;
+          color: #9a9a9a;
+          line-height: 20px;
+          font-family: "Roboto_Regular";
+          font-weight: 700; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003561}}
+        #factoring .row .fact_separ .__fact_separ_wrapp .__fact_separ_img, #factoring .row .fact_separ .__fact_separ_wrapp .__fact_separ_img_g {
+          display: inline-block;
+          width: 52px;
+          height: 29px;
+          background: url(../img/icons/s_right.svg) no-repeat;
+          margin-top: 8px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003567}}
+        #factoring .row .fact_separ .__fact_separ_wrapp .__fact_separ_img_g {
+          background: url(../img/icons/s_right_gray.svg) no-repeat; }
 
-.m_descr {
-  font-size: 16px;
-  line-height: 20px;
-  font-family: "Roboto_Bold";
-  color: #000000;
-}
-
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003569}}
 #forma {
-  display: block;
-  height: 500px;
-  margin-top: 70px;
-  background: url(../img/forma_bg.png) no-repeat;
-  background-position: top center;
-}
-#forma .photo {
-  display: block;
-  width: 287px;
-  height: 474px;
-  margin: 26px 0 0 100px;
-  background: url(../img/photo_smile.png) no-repeat;
-}
-#forma .info_contact {
-  float: left;
-}
-#forma .info_contact p {
-  font-size: 34px;
-  color: #0082ad;
-  font-family: "OpenSans_Light";
-  letter-spacing: 1px;
-}
-#forma .info_contact input {
-  display: inline-block;
-  width: 350px;
-  height: 50px;
-  padding: 15px 20px;
-  border: none;
-  border-radius: 6px;
-}
-#forma button.btn {
-  display: inline-block;
-  width: 350px;
-  height: 50px;
-  padding-left: 70px;
-  border: none;
-  border-radius: 6px;
-  text-align: left;
-  font-size: 18px;
-  line-height: 36px;
-  background-color: #ff7070;
-  margin-top: 20px;
-  box-shadow: 0 3px 0 rgba(206, 91, 91, 0.98);
-}
+  padding-top: 1px;
+  background: url(../img/forma_bg.png) top center no-repeat; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003572}}
+  #forma .row {
+    display: flex;
+    justify-content: space-around; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003575}}
+    #forma .row .photo {
+      display: block;
+      width: 287px;
+      height: 474px;
+      margin: 26px 0 0 100px;
+      background: url(../img/photo_smile.png) no-repeat; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003581}}
+    #forma .row .info_contact {
+      display: flex;
+      width: 50%;
+      color: #0082ad;
+      flex-direction: column;
+      margin-top: 60px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003587}}
+      #forma .row .info_contact .__info_question {
+        font-family: "OpenSans_Regular";
+        line-height: 52px;
+        font-size: 2.5em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003591}}
+      #forma .row .info_contact .__info_answer {
+        font-family: "OpenSans_Light";
+        font-size: 2.125em;
+        line-height: 41px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003595}}
+        #forma .row .info_contact .__info_answer .__info_end {
+          color: #15b799;
+          line-height: 41px;
+          text-transform: uppercase;
+          font-family: "OpenSans_Regular";
+          font-size: 1.125em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003601}}
+    #forma .row .number {
+      width: 348px;
+      height: 49px;
+      border: none;
+      border-radius: 6px;
+      outline: none;
+      margin: 53px 0 20px 0;
+      color: #9a9a9a;
+      font-size: 1em;
+      line-height: 41px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003611}}
+    #forma .row button.btn {
+      display: flex;
+      justify-content: center;
+      width: 348px;
+      height: 49px;
+      border: none;
+      border-radius: 6px;
+      text-align: left;
+      font-size: 1.125em;
+      line-height: 36px;
+      background-color: #ff7070;
+      box-shadow: 0 3px 0 rgba(206, 91, 91, 0.98);
+      font-family: "OpenSans_Semibold";
+      color: #333333; }
 
-footer {
-  margin-top: 30px;
-}
-footer .f_contact {
-  float: left;
-}
-footer .f_contact .f_num_wrapp {
-  display: block;
-  width: 100%;
-}
-footer .f_contact .f_num_wrapp .numb {
-  font-size: 22px;
-  line-height: 30px;
-  color: #15b799;
-  font-family: "OpenSans";
-}
-footer .f_contact span > strong {
-  font-size: 14px;
-  line-height: 30px;
-  color: #0082ad;
-  font-family: "OpenSans_Light";
-  font-weight: 400;
-}
-footer .f_contact span > strong:hover {
-  text-decoration: underline;
-}
-footer .f_contact span {
-  font-size: 14px;
-  line-height: 21px;
-  font-family: "Roboto_Regular";
-  color: #000;
-}
-footer .f_contact h4 {
-  font-size: 13px;
-  line-height: 30px;
-  color: #0082ad;
-  font-family: "OpenSans_Regular";
-  font-weight: 400;
-  text-decoration: underline;
-}
-footer .social {
-  display: block;
-  width: 100%;
-  text-align: center;
-}
-footer .social span {
-  display: block;
-  text-decoration: underline;
-  padding-bottom: 20px;
-  font-size: 13px;
-  line-height: 30px;
-  font-family: "OpenSans_Regular";
-  color: #0082ad;
-}
-footer .social li {
-  display: inline-block;
-  list-style-type: none;
-  width: 25px;
-  height: 25px;
-  margin-right: 5px;
-}
-footer .social li a {
-  display: inline-block;
-  width: 25px;
-  height: 25px;
-  border-radius: 50%;
-  text-decoration: none;
-  outline: none;
-}
-footer .social li a.instag {
-  background: #529ac4 url(../img/icons/ic_instagram.png) no-repeat;
-  background-position: 6px 6px;
-}
-footer .social li a.odnak {
-  background: #ff7700 url(../img/icons/ic_odnak.png) no-repeat;
-  background-position: 7px 5px;
-}
-footer .social li a.face {
-  background: #054b93 url(../img/icons/ic_face.png) no-repeat;
-  background-position: 9px 5px;
-}
-footer .social li a.vk {
-  background: #196d9e url(../img/icons/ic_vk.png) no-repeat;
-  background-position: 3px 3px;
-}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003627}}
+footer .row {
+  display: flex;
+  justify-content: space-around; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003630}}
+  footer .row .logo {
+    display: flex;
+    width: 140px;
+    height: 90px;
+    background: url(../img/logo.png) no-repeat;
+    outline: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003636}}
+  footer .row .f_num_wrapp {
+    display: flex;
+    align-items: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003639}}
+    footer .row .f_num_wrapp .numb {
+      font-size: 1.375em;
+      line-height: 30px;
+      color: #15b799;
+      font-family: "OpenSans_Regular"; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003644}}
+    footer .row .f_num_wrapp .__mail_text {
+      font-size: 0.875em;
+      line-height: 30px;
+      color: #0082ad;
+      font-family: "OpenSans_Regular";
+      text-decoration: underline; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003650}}
+    footer .row .f_num_wrapp .__map_text {
+      font-size: 0.875em;
+      line-height: 21px;
+      font-family: "Roboto_Regular";
+      color: #000000; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003655}}
+    footer .row .f_num_wrapp h4 {
+      font-size: 0.8125em;
+      line-height: 30px;
+      color: #0082ad;
+      font-family: "OpenSans_Regular";
+      font-weight: 400;
+      text-decoration: underline; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003662}}
+  footer .row .social {
+    text-align: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003664}}
+    footer .row .social span {
+      display: block;
+      text-decoration: underline;
+      padding-bottom: 20px;
+      font-size: 0.8125em;
+      line-height: 30px;
+      font-family: "OpenSans_Regular";
+      color: #0082ad; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003672}}
+    footer .row .social li {
+      display: inline-block;
+      list-style-type: none;
+      width: 25px;
+      height: 25px;
+      margin-right: 5px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003678}}
+      footer .row .social li a {
+        display: inline-block;
+        width: 25px;
+        height: 25px;
+        border-radius: 50%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003683}}
+      footer .row .social li a.instag {
+        background: #529ac4 url(../img/icons/ic_instagram.png) no-repeat;
+        background-position: 6px 6px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003686}}
+      footer .row .social li a.odnak {
+        background: #ff7700 url(../img/icons/ic_odnak.png) no-repeat;
+        background-position: 7px 5px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003689}}
+      footer .row .social li a.face {
+        background: #054b93 url(../img/icons/ic_face.png) no-repeat;
+        background-position: 9px 5px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003692}}
+      footer .row .social li a.vk {
+        background: #196d9e url(../img/icons/ic_vk.png) no-repeat;
+        background-position: 3px 3px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003695}}
 footer .copyright {
   display: block;
   height: 30px;
   background: #e9e9ea;
-  text-align: center;
-}
-footer .copyright h4 {
-  font-size: 12px;
-  line-height: 20px;
-  padding-top: 5px;
-  font-family: "Roboto_Regular";
-  color: #333333;
-  font-weight: 400;
-}
+  text-align: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003700}}
+  footer .copyright h4 {
+    font-size: 0.75em;
+    line-height: 20px;
+    padding-top: 5px;
+    font-family: "Roboto_Regular";
+    color: #333333; }
 
-.phone {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003706}}
+.phone, .mail, .map {
   display: inline-block;
   width: 17px;
-  height: 16px;
+  height: 17px;
   background: url(../img/icons/phone.svg) no-repeat;
-  margin-right: 15px;
-}
+  margin-right: 15px; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003712}}
 .mail {
-  display: inline-block;
-  width: 16px;
   height: 12px;
   background: url(../img/icons/mail.svg) no-repeat;
-  margin-right: 15px;
-}
+  margin: 15px 15px 15px 0; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003716}}
 .map {
-  display: inline-block;
   width: 13px;
   height: 19px;
-  background: url(../img/icons/map.svg) no-repeat;
-  margin-right: 15px;
-}
+  background: url(../img/icons/map.svg) no-repeat; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003720}}
 .ic_border {
-  display: inline-block;
+  display: flex;
   width: 120px;
   height: 120px;
   border-radius: 50%;
   border: 1px solid #31bfa5;
-  padding-top: 30px;
-}
+  justify-content: center;
+  align-items: center; }

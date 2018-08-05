@@ -1,42 +1,45 @@
 @font-face {
   font-family: "OpenSans_Light";
   font-style: normal;
-  font-weight: normal;
-  src: url("../fonts/OpenSans_Light.ttf") format("truetype");
-}
+  font-weight: 300;
+  src: url("../fonts/OpenSans_Light.ttf") format("truetype"); }
 @font-face {
   font-family: "Roboto_Regular";
   font-style: normal;
   font-weight: normal;
-  src: url("../fonts/Roboto_Regular.ttf") format("truetype");
-}
+  src: url("../fonts/Roboto_Regular.ttf") format("truetype"); }
 @font-face {
   font-family: "OpenSans_Regular";
   font-style: normal;
-  font-weight: 300;
-  src: url("../fonts/OpenSans_Regular.ttf") format("truetype");
-}
+  font-weight: 400;
+  src: url("../fonts/OpenSans_Regular.ttf") format("truetype"); }
 @font-face {
   font-family: "OpenSans_Bold";
   font-style: normal;
-  font-weight: 600;
-  src: url("../fonts/OpenSans_Bold.ttf") format("truetype");
-}
+  font-weight: 700;
+  src: url("../fonts/OpenSans_Bold.ttf") format("truetype"); }
 @font-face {
   font-family: "OpenSans_Semibold";
   font-style: normal;
   font-weight: 600;
-  src: url("../fonts/OpenSans_Semibold.ttf") format("truetype");
-}
+  src: url("../fonts/OpenSans_Semibold.ttf") format("truetype"); }
 @font-face {
   font-family: "OpenSans_LightItalic";
   font-style: normal;
   font-weight: 400;
-  src: url("../fonts/OpenSans_LightItalic.ttf") format("truetype");
-}
+  src: url("../fonts/OpenSans_LightItalic.ttf") format("truetype"); }
 @font-face {
   font-family: "Roboto_Bold";
   font-style: normal;
-  font-weight: 600;
-  src: url("../fonts/Roboto_Bold.ttf") format("truetype");
-}
+  font-weight: 700;
+  src: url("../fonts/Roboto_Bold.ttf") format("truetype"); }
+@font-face {
+  font-family: "Roboto_Black";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Roboto_Black.ttf") format("truetype"); }
+@font-face {
+  font-family: "Roboto_Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Roboto_Regular.ttf") format("truetype"); }
