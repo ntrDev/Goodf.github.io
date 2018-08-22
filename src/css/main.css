@@ -1,4 +1,4 @@
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000325}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\0000325}}
 #partners .__section_descr, #comment .__section_descr, #factoring .section_descr {
   display: block;
   font-size: 31px;
@@ -7,7 +7,7 @@
   font-family: "OpenSans_Semibold";
   padding: 58px 0 53px 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000333}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\0000333}}
 body {
   font-family: "OpenSans_Regular", sans-serif;
   font-weight: normal;
@@ -21,64 +21,60 @@ body {
   -webkit-font-smoothing: antialised;
   overflow-x: hidden; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000346}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\0000346}}
 body input:focus:required:invalid,
 body textarea:focus:required:invalid {
   color: red; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000349}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\0000349}}
 body input:required:valid,
 body textarea:required:valid {
   color: green; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000352}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\0000352}}
 a {
   outline: none;
   text-decoration: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000355}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\0000355}}
 ul, li {
   margin: 0;
   padding: 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000358}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\0000358}}
 .hidden {
   display: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000360}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\0000360}}
 .container {
   width: 1170px;
   margin: 0 auto; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000363}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\0000363}}
 .top_separator {
-  display: flex; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000365}}
-.line_up_1, .line_up_2, .line_up_3 {
   display: flex;
-  height: 3px;
-  margin: 0;
-  padding: 0;
-  flex-direction: row;
   margin-bottom: 30px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\0000366}}
+  .top_separator .line_up_1, .top_separator .line_up_2, .top_separator .line_up_3 {
+    display: flex;
+    height: 3px;
+    margin: 0;
+    padding: 0;
+    flex-direction: row; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\0000372}}
+  .top_separator .line_up_1 {
+    width: 15%;
+    background-color: #15b799; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\0000375}}
+  .top_separator .line_up_2 {
+    width: 56%;
+    background-color: #0082ad; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\0000378}}
+  .top_separator .line_up_3 {
+    width: 29%;
+    background-color: #133a81; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000372}}
-.line_up_1 {
-  width: 15%;
-  background-color: #15b799; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000375}}
-.line_up_2 {
-  width: 56%;
-  background-color: #0082ad; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000378}}
-.line_up_3 {
-  width: 29%;
-  background-color: #133a81; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000381}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\0000381}}
 .section__descr__blue, .section__descr__white {
   display: block;
   font-family: "OpenSans_Semibold";
@@ -88,114 +84,128 @@ ul, li {
   text-align: center;
   letter-spacing: 2px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000389}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\0000389}}
 .section__descr__white {
   color: #ffffff; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000391}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\0000391}}
 .items__wrapp {
   display: flex;
   align-content: center;
   justify-content: space-around;
   padding: 40px 0 70px 0; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\0000396}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\0000396}}
   .items__wrapp .item {
     display: flex;
     flex-direction: column;
     align-items: center;
     width: 33%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003104}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003104}}
 #header .header_wrapp {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003109}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003109}}
   #header .header_wrapp .logo_wrapp {
     flex-direction: row; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003111}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003111}}
     #header .header_wrapp .logo_wrapp .logo {
       display: flex;
       width: 140px;
       height: 90px;
       background: url(../img/logo.png) no-repeat;
       outline: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003117}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003117}}
   #header .header_wrapp .header_content {
     font-size: 1.25em;
     line-height: 36px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003120}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003120}}
     #header .header_wrapp .header_content .__header_text_f {
       color: #133a81;
       font-family: "OpenSans_Semibold";
       font-weight: 400; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003124}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003124}}
     #header .header_wrapp .header_content .__header_text_s {
       color: #25262a;
       font-family: "OpenSans_Light"; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003127}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003127}}
   #header .header_wrapp .contact {
     line-height: 30px;
     letter-spacing: 0.7px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003130}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003130}}
     #header .header_wrapp .contact .phon_number_wrapp, #header .header_wrapp .contact .cont_mail_wrapp {
       display: flex;
       align-items: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003133}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003133}}
     #header .header_wrapp .contact .__contact_phone_f, #header .header_wrapp .contact .__contact_phone_s {
       color: #15b799;
       font-size: 1.75em;
       font-family: "OpenSans_Light"; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003137}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003137}}
     #header .header_wrapp .contact .__contact_phone_s {
       font-family: "OpenSans_Regular"; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003139}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003139}}
     #header .header_wrapp .contact .mail_font {
       font-size: 0.875em;
       color: #133a81;
       text-decoration: underline; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003143}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003143}}
 #content_info {
   margin-top: 25px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003145}}
   #content_info .content_info_wrap {
     background: #ff7070 url(../img/slaider_wrap.png) no-repeat; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003147}}
-    #content_info .content_info_wrap .nav_mnu_wrapp {
-      display: block; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003149}}
-      #content_info .content_info_wrap .nav_mnu_wrapp .nav_menu {
-        display: flex;
-        flex-wrap: wrap;
-        background: #ececec;
-        justify-content: space-around; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003154}}
-        #content_info .content_info_wrap .nav_mnu_wrapp .nav_menu .yslugi {
-          text-transform: uppercase;
-          list-style: none;
-          font-size: 0.94em;
-          line-height: 36px;
-          text-align: left; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003160}}
-          #content_info .content_info_wrap .nav_mnu_wrapp .nav_menu .yslugi a {
-            color: #25262a;
-            text-decoration: none;
-            cursor: pointer; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003164}}
-          #content_info .content_info_wrap .nav_mnu_wrapp .nav_menu .yslugi a:hover {
-            background-color: #0082ad;
-            color: #ffffff; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003167}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003147}}
+    #content_info .content_info_wrap .content_info_separ {
+      display: block;
+      width: 100%;
+      background: #ececec; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003151}}
+      #content_info .content_info_wrap .content_info_separ .nav_mnu_wrapp {
+        display: block; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003153}}
+        #content_info .content_info_wrap .content_info_separ .nav_mnu_wrapp .nav_menu {
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-between; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003157}}
+          #content_info .content_info_wrap .content_info_separ .nav_mnu_wrapp .nav_menu .yslugi {
+            display: block;
+            text-transform: uppercase;
+            list-style: none;
+            font-size: 0.94em;
+            line-height: 36px;
+            text-align: center;
+            width: 33.3%;
+            transition: all 0.5s; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003166}}
+            #content_info .content_info_wrap .content_info_separ .nav_mnu_wrapp .nav_menu .yslugi:hover {
+              background-color: #0082ad;
+              transition: all 0.5s; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003169}}
+              #content_info .content_info_wrap .content_info_separ .nav_mnu_wrapp .nav_menu .yslugi:hover a {
+                display: block;
+                color: #25262a;
+                text-decoration: none;
+                cursor: pointer;
+                line-height: 36px;
+                width: 100%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003176}}
+                #content_info .content_info_wrap .content_info_separ .nav_mnu_wrapp .nav_menu .yslugi:hover a:hover {
+                  color: #ffffff;
+                  transition: all 0.5s; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003180}}
     #content_info .content_info_wrap .slaider, #content_info .content_info_wrap .row {
       display: flex;
       justify-content: space-around; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003170}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003183}}
       #content_info .content_info_wrap .slaider .row, #content_info .content_info_wrap .row .row {
         flex-basis: 40%;
         flex-flow: column; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003173}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003186}}
         #content_info .content_info_wrap .slaider .row h1, #content_info .content_info_wrap .row .row h1 {
           font-size: 2.125em;
           line-height: 45px;
@@ -203,13 +213,13 @@ ul, li {
           text-shadow: 3px 0 3px rgba(0, 0, 0, 0.1);
           color: #ffffff;
           letter-spacing: 2px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003180}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003193}}
         #content_info .content_info_wrap .slaider .row p, #content_info .content_info_wrap .row .row p {
           font-size: 1.125em;
           line-height: 30px;
           color: #ffffff;
           font-weight: normal; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003185}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003198}}
         #content_info .content_info_wrap .slaider .row button.btn_s, #content_info .content_info_wrap .row .row button.btn_s {
           display: inline-block;
           width: 255px;
@@ -221,6 +231,7 @@ ul, li {
           line-height: 36px;
           text-align: center;
           font-family: "OpenSans_Semibold";
+          cursor: pointer;
           color: #333333;
           border-radius: 4px;
           -webkit-box-shadow: 2px 0 2px rgba(224, 97, 97, 0.5);
@@ -231,7 +242,7 @@ ul, li {
           -moz-box-shadow: inset 0 0 2px white;
           -o-box-shadow: inset 0 0 2px white;
           box-shadow: inset 0 0 2px white; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003206}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003220}}
         #content_info .content_info_wrap .slaider .row a, #content_info .content_info_wrap .row .row a {
           font-family: "OpenSans_Light";
           font-size: 0.875em;
@@ -239,17 +250,17 @@ ul, li {
           color: #e7e7e7;
           font-weight: normal;
           letter-spacing: 1px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003213}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003227}}
       #content_info .content_info_wrap .slaider .slaider_foto, #content_info .content_info_wrap .row .slaider_foto {
         display: flex;
         flex-basis: 38%;
         height: 410px;
         background: url(../img/slaider_photo.png) no-repeat; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003218}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003232}}
 #money {
   padding-top: 56px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003220}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003234}}
   #money .circle {
     display: flex;
     width: 108px;
@@ -258,29 +269,29 @@ ul, li {
     border-radius: 50%;
     justify-content: center;
     align-items: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003228}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003242}}
     #money .circle .dollar {
       width: 56px;
       height: 33px;
       background: url(../img/icons/ic_dollar.png) no-repeat; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003232}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003246}}
     #money .circle .clock {
       width: 48px;
       height: 48px;
       background: url(../img/icons/ic_clock.png) no-repeat; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003236}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003250}}
     #money .circle .monitor {
       width: 54px;
       height: 47px;
       background: url(../img/icons/ic_monitor.png) no-repeat; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003240}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003254}}
   #money .item__name {
     display: flex;
     font-family: "OpenSans_Semibold";
     font-size: 1em;
     line-height: 18px;
     color: #1c1c1c; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003246}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003260}}
   #money .item__descr {
     display: inline-block;
     width: 75%;
@@ -290,14 +301,14 @@ ul, li {
     margin-bottom: 20px;
     text-align: center; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003255}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003269}}
 #conditions {
   padding: 35px 0 0 0;
   background: url(../img/cond_bg.jpg) no-repeat;
   background-position: left center;
   color: #ffffff;
   text-align: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003261}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003275}}
   #conditions .circle_s {
     display: flex;
     width: 122px;
@@ -306,79 +317,79 @@ ul, li {
     border: 2px solid #3cc3aa;
     justify-content: center;
     align-items: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003269}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003283}}
     #conditions .circle_s .plainer {
       width: 58px;
       height: 58px;
       background: url(../img/icons/ic_planer.png) no-repeat; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003273}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003287}}
     #conditions .circle_s .wait {
       width: 65px;
       height: 58px;
       background: url(../img/icons/ic_wait_time.png) no-repeat;
       margin: 7px 7px 0 0; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003278}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003292}}
     #conditions .circle_s .bag_money {
       width: 50px;
       height: 68px;
       background: url(../img/icons/ic_bag_dollar.png) no-repeat; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003283}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003297}}
   #conditions .item:first-child {
     line-height: 30px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003286}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003300}}
   #conditions .it__name {
     font-family: "OpenSans_Regular";
     font-size: 1.25em;
     line-height: 28px;
     text-transform: uppercase;
     margin-top: 30px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003292}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003306}}
     #conditions .it__name:first-child {
       line-height: 18px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003294}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003308}}
   #conditions .it__descr {
     font-family: "Roboto_Bold";
     font-size: 1em;
     line-height: 20px;
     margin: 22px 2px 0 2px;
     display: flex; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003300}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003314}}
     #conditions .it__descr:first-child {
       justify-content: flex-end; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003302}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003316}}
 #network {
   padding: 58px 0 0 0;
   background: url(../img/network_bg.jpg) no-repeat;
   background-position: top right; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003306}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003320}}
   #network .section__name {
     font-size: 2.125em;
     line-height: 45px;
     font-family: "OpenSans_Bold";
     color: #4ac6b7;
     text-transform: uppercase; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003312}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003326}}
   #network p {
     font-family: "OpenSans_Regular";
     font-size: 1.125em;
     line-height: 25px;
     width: 65%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003317}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003331}}
     #network p > strong {
       width: 70%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003319}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003333}}
   #network .info {
     display: flex;
     width: 57%;
     padding: 25px 0 55px 0; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003323}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003337}}
     #network .info .avto {
       display: block;
       width: 75px;
       height: 36px;
       background: url(../img/icons/ic_avto.png) no-repeat; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003328}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003342}}
     #network .info .t3_descr {
       display: flex;
       height: 120px;
@@ -388,7 +399,7 @@ ul, li {
       margin-left: 20px;
       font-family: "OpenSans_Regular";
       color: #000000; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003337}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003351}}
       #network .info .t3_descr .text_gl {
         display: block;
         font-size: 1em;
@@ -396,37 +407,37 @@ ul, li {
         font-family: "Roboto_Bold";
         text-transform: uppercase;
         color: #000000; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003344}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003358}}
     #network .info .defense {
       display: block;
       width: 43px;
       height: 50px;
       background: url(../img/icons/ic_defense.png) no-repeat; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003349}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003363}}
 #banner {
   height: 338px;
   color: #ffffff;
   background-color: #4ac6b7; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003353}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003367}}
   #banner .row {
     padding-top: 60px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003355}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003369}}
     #banner .row .banner__text_wrapp {
       font-size: 2.125em;
       text-shadow: 2px 3px 3px rgba(0, 0, 0, 0.1);
       font-family: "OpenSans_Light";
       line-height: 45px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003360}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003374}}
       #banner .row .banner__text_wrapp .__banner_text_f, #banner .row .banner__text_wrapp .__banner_text_s {
         font-family: "OpenSans_Bold";
         display: block;
         width: 72%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003364}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003378}}
       #banner .row .banner__text_wrapp .__banner_text_s {
         line-height: 49px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003366}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003380}}
 #like_you {
   height: 506px;
   text-align: center;
@@ -434,11 +445,11 @@ ul, li {
   background-position: top center;
   position: relative;
   z-index: 99; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003373}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003387}}
   #like_you .row {
     display: flex;
     justify-content: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003376}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003390}}
     #like_you .row .window_info {
       width: 48%;
       background-color: #f3f3f3;
@@ -447,23 +458,23 @@ ul, li {
       line-height: 25px;
       text-align: left;
       margin-top: 60px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003384}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003398}}
       #like_you .row .window_info .__window_info_text {
         display: block;
         font-size: 1.125em;
         font-family: "OpenSans_Bold"; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003388}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003402}}
       #like_you .row .window_info .__window_info_descr {
         display: block;
         font-size: 1em;
         font-family: "OpenSans_Light";
         margin-top: 20px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003393}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003407}}
       #like_you .row .window_info .window_info_wrapp {
         display: flex;
         justify-content: space-between;
         margin-top: 70px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003397}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003411}}
         #like_you .row .window_info .window_info_wrapp .author {
           display: flex;
           align-items: flex-end;
@@ -471,7 +482,7 @@ ul, li {
           line-height: 25px;
           color: #000000;
           font-family: "OpenSans_Bold"; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003404}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003418}}
       #like_you .row .window_info .box {
         display: inline-block;
         width: 335px;
@@ -482,25 +493,25 @@ ul, li {
         right: 14rem;
         z-index: -1; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003414}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003428}}
 #partners {
   height: 380px;
   text-align: center;
   background-color: #ededed; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003420}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003434}}
   #partners .row {
     display: flex;
-    justify-content: space-around; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003423}}
+    justify-content: space-around;
+    padding-bottom: 70px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003438}}
     #partners .row .part_item {
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
       align-items: center;
       flex-basis: 17%;
-      height: 168px;
-      margin-bottom: 70px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003431}}
+      height: 168px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003445}}
       #partners .row .part_item a.part_1, #partners .row .part_item a.part_2, #partners .row .part_item a.part_3, #partners .row .part_item a.part_4, #partners .row .part_item a.part_5 {
         display: flex;
         width: 100%;
@@ -508,32 +519,32 @@ ul, li {
         background: url(../img/solid.jpg) no-repeat;
         justify-content: center;
         align-items: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003438}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003452}}
       #partners .row .part_item a.part_2 {
         background: url(../img/innosvet.jpg) no-repeat; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003440}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003454}}
       #partners .row .part_item a.part_3 {
         background: url(../img/stroidom.jpg) no-repeat; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003442}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003456}}
       #partners .row .part_item a.part_4 {
         background: url(../img/sozidant.jpg) no-repeat; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003444}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003458}}
       #partners .row .part_item a.part_5 {
         background: url(../img/pim.jpg) no-repeat; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003447}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003460}}
 #comment {
   text-align: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003451}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003464}}
   #comment .row {
     display: flex;
     justify-content: space-between; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003454}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003467}}
     #comment .row .window_comment_wrapp {
       display: flex;
       flex-direction: column;
       width: 48.5%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003458}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003471}}
       #comment .row .window_comment_wrapp .window_comment {
         display: flex;
         height: 181px;
@@ -548,12 +559,12 @@ ul, li {
         text-align: left;
         font-family: "OpenSans_Regular";
         font-style: italic; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003472}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003485}}
         #comment .row .window_comment_wrapp .window_comment span {
           font-size: 0.875em;
           line-height: 22px;
           letter-spacing: 0.15px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003476}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003489}}
       #comment .row .window_comment_wrapp .manager {
         text-align: left;
         font-size: 0.9375em;
@@ -562,7 +573,7 @@ ul, li {
         color: #071c22;
         font-weight: 400; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003483}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003496}}
 #separator {
   display: flex;
   height: 170px;
@@ -570,83 +581,83 @@ ul, li {
   background: url(../img/fon_slaider_1.png) no-repeat;
   justify-content: center;
   align-items: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003490}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003503}}
   #separator .__sep_descr, #separator .__descr_f {
     color: #ffffff;
     font-family: "OpenSans_Bold";
     line-height: 59px;
     font-size: 2.5em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003495}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003508}}
   #separator .__descr_f {
     line-height: 50px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003497}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003510}}
   #separator .__phone_f, #separator .__phone_s {
     color: #133a81;
     font-family: "OpenSans_Light";
     font-size: 2.687em;
     line-height: 30px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003502}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003515}}
   #separator .__phone_s {
     font-family: "OpenSans_Regular"; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003505}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003518}}
 #factoring {
   display: block;
   background-color: #ffffff;
   text-align: center;
   margin-bottom: 20px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003512}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003525}}
   #factoring .row {
     display: flex;
     justify-content: space-around; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003515}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003528}}
     #factoring .row .factoring_item {
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
       align-items: center;
       flex-basis: 16%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003521}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003534}}
       #factoring .row .factoring_item .bag_money2, #factoring .row .factoring_item .dollar, #factoring .row .factoring_item .coins {
         display: inline-block;
         width: 45px;
         height: 62px;
         background: url(../img/icons/ic_bag_money_p.png) no-repeat; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003526}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003539}}
       #factoring .row .factoring_item .dollar {
         width: 56px;
         height: 33px;
         background: url(../img/icons/ic_dollar.png) no-repeat; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003530}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003543}}
       #factoring .row .factoring_item .coins {
         width: 87px;
         height: 39px;
         background: url(../img/icons/ic_coins.png) no-repeat; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003534}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003547}}
       #factoring .row .factoring_item h3.money {
         color: #1fba9d;
         font-size: 1.5625em;
         line-height: 20px;
         font-family: "Roboto_Black";
         font-weight: 900; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003540}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003553}}
       #factoring .row .factoring_item .m_descr {
         display: block;
         font-size: 1em;
         line-height: 20px;
         font-family: "Roboto_Bold";
         color: #000000; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003546}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003559}}
     #factoring .row .fact_separ {
       display: flex;
       height: 90px;
       align-items: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003550}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003563}}
       #factoring .row .fact_separ .__fact_separ_wrapp {
         display: flex;
         flex-direction: column;
         align-items: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003554}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003567}}
         #factoring .row .fact_separ .__fact_separ_wrapp .__fact_separ_text {
           font-size: 1em;
           text-transform: uppercase;
@@ -654,57 +665,57 @@ ul, li {
           line-height: 20px;
           font-family: "Roboto_Regular";
           font-weight: 700; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003561}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003574}}
         #factoring .row .fact_separ .__fact_separ_wrapp .__fact_separ_img, #factoring .row .fact_separ .__fact_separ_wrapp .__fact_separ_img_g {
           display: inline-block;
           width: 52px;
           height: 29px;
           background: url(../img/icons/s_right.svg) no-repeat;
           margin-top: 8px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003567}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003580}}
         #factoring .row .fact_separ .__fact_separ_wrapp .__fact_separ_img_g {
           background: url(../img/icons/s_right_gray.svg) no-repeat; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003569}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003582}}
 #forma {
   padding-top: 1px;
   background: url(../img/forma_bg.png) top center no-repeat; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003572}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003585}}
   #forma .row {
     display: flex;
     justify-content: space-around; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003575}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003588}}
     #forma .row .photo {
       display: block;
       width: 287px;
       height: 474px;
       margin: 26px 0 0 100px;
       background: url(../img/photo_smile.png) no-repeat; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003581}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003594}}
     #forma .row .info_contact {
       display: flex;
       width: 50%;
       color: #0082ad;
       flex-direction: column;
       margin-top: 60px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003587}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003600}}
       #forma .row .info_contact .__info_question {
         font-family: "OpenSans_Regular";
         line-height: 52px;
         font-size: 2.5em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003591}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003604}}
       #forma .row .info_contact .__info_answer {
         font-family: "OpenSans_Light";
         font-size: 2.125em;
         line-height: 41px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003595}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003608}}
         #forma .row .info_contact .__info_answer .__info_end {
           color: #15b799;
           line-height: 41px;
           text-transform: uppercase;
           font-family: "OpenSans_Regular";
           font-size: 1.125em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003601}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003615}}
     #forma .row .number {
       width: 348px;
       height: 49px;
@@ -715,7 +726,7 @@ ul, li {
       color: #9a9a9a;
       font-size: 1em;
       line-height: 41px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003611}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003625}}
     #forma .row button.btn {
       display: flex;
       justify-content: center;
@@ -729,43 +740,44 @@ ul, li {
       background-color: #ff7070;
       box-shadow: 0 3px 0 rgba(206, 91, 91, 0.98);
       font-family: "OpenSans_Semibold";
-      color: #333333; }
+      color: #333333;
+      cursor: pointer; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003627}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003641}}
 footer .row {
   display: flex;
-  justify-content: space-around; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003630}}
+  justify-content: space-between; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003644}}
   footer .row .logo {
     display: flex;
     width: 140px;
     height: 90px;
     background: url(../img/logo.png) no-repeat;
     outline: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003636}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003650}}
   footer .row .f_num_wrapp {
     display: flex;
     align-items: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003639}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003653}}
     footer .row .f_num_wrapp .numb {
       font-size: 1.375em;
       line-height: 30px;
       color: #15b799;
       font-family: "OpenSans_Regular"; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003644}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003658}}
     footer .row .f_num_wrapp .__mail_text {
       font-size: 0.875em;
       line-height: 30px;
       color: #0082ad;
       font-family: "OpenSans_Regular";
       text-decoration: underline; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003650}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003664}}
     footer .row .f_num_wrapp .__map_text {
       font-size: 0.875em;
       line-height: 21px;
       font-family: "Roboto_Regular";
       color: #000000; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003655}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003669}}
     footer .row .f_num_wrapp h4 {
       font-size: 0.8125em;
       line-height: 30px;
@@ -773,10 +785,10 @@ footer .row {
       font-family: "OpenSans_Regular";
       font-weight: 400;
       text-decoration: underline; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003662}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003676}}
   footer .row .social {
     text-align: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003664}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003678}}
     footer .row .social span {
       display: block;
       text-decoration: underline;
@@ -785,42 +797,42 @@ footer .row {
       line-height: 30px;
       font-family: "OpenSans_Regular";
       color: #0082ad; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003672}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003686}}
     footer .row .social li {
       display: inline-block;
       list-style-type: none;
       width: 25px;
       height: 25px;
       margin-right: 5px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003678}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003692}}
       footer .row .social li a {
         display: inline-block;
         width: 25px;
         height: 25px;
         border-radius: 50%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003683}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003697}}
       footer .row .social li a.instag {
         background: #529ac4 url(../img/icons/ic_instagram.png) no-repeat;
         background-position: 6px 6px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003686}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003700}}
       footer .row .social li a.odnak {
         background: #ff7700 url(../img/icons/ic_odnak.png) no-repeat;
         background-position: 7px 5px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003689}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003703}}
       footer .row .social li a.face {
         background: #054b93 url(../img/icons/ic_face.png) no-repeat;
         background-position: 9px 5px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003692}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003706}}
       footer .row .social li a.vk {
         background: #196d9e url(../img/icons/ic_vk.png) no-repeat;
         background-position: 3px 3px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003695}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003709}}
 footer .copyright {
   display: block;
   height: 30px;
   background: #e9e9ea;
   text-align: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003700}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003714}}
   footer .copyright h4 {
     font-size: 0.75em;
     line-height: 20px;
@@ -828,7 +840,7 @@ footer .copyright {
     font-family: "Roboto_Regular";
     color: #333333; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003706}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003720}}
 .phone, .mail, .map {
   display: inline-block;
   width: 17px;
@@ -836,19 +848,19 @@ footer .copyright {
   background: url(../img/icons/phone.svg) no-repeat;
   margin-right: 15px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003712}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003726}}
 .mail {
   height: 12px;
   background: url(../img/icons/mail.svg) no-repeat;
   margin: 15px 15px 15px 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003716}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003730}}
 .map {
   width: 13px;
   height: 19px;
   background: url(../img/icons/map.svg) no-repeat; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Good_factoring\/css\/sass\/main\.sass}line{font-family:\00003720}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/dk\/\%D0\%A0\%D0\%B0\%D0\%B1\%D0\%BE\%D1\%87\%D0\%B8\%D0\%B9\%20\%D1\%81\%D1\%82\%D0\%BE\%D0\%BB\/Gf\/src\/css\/sass\/main\.sass}line{font-family:\00003734}}
 .ic_border {
   display: flex;
   width: 120px;

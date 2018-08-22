@@ -1,2 +1,2 @@
-import $ from 'jquery';
-// import slick-carousel;
+import './css/main.css';
+import './css/media.css';

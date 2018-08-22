@@ -62,22 +62,22 @@ ul,li
 	margin: 0 auto
 .top_separator
 	display: flex
-.line_up_1,.line_up_2,.line_up_3
-	display: flex
-	height: 3px
-	margin: 0
-	padding: 0
-	flex-direction: row
 	margin-bottom: 30px
-.line_up_1
-	width: 15%
-	background-color: $green-color
-.line_up_2
-	width: 56%
-	background-color: $blues-color
-.line_up_3
-	width: 29%
-	background-color: $blue-color
+	.line_up_1,.line_up_2,.line_up_3
+		display: flex
+		height: 3px
+		margin: 0
+		padding: 0
+		flex-direction: row
+	.line_up_1
+		width: 15%
+		background-color: $green-color
+	.line_up_2
+		width: 56%
+		background-color: $blues-color
+	.line_up_3
+		width: 29%
+		background-color: $blue-color
 .section__descr__blue,.section__descr__white
 	display: block
 	font-family: "OpenSans_Semibold"
@@ -144,26 +144,39 @@ ul,li
 	margin-top: 25px
 	.content_info_wrap
 		background: $red-color url(../img/slaider_wrap.png)no-repeat
-		.nav_mnu_wrapp
+		.content_info_separ
 			display: block
-			.nav_menu
-				display: flex
-				flex-wrap: wrap
-				background: $bgc-nav-mnu
-				justify-content: space-around
-				.yslugi
-					text-transform: uppercase
-					list-style: none
-					font-size: 0.94em
-					line-height: 36px
-					text-align: left
-					a
-						color: $text-color
-						text-decoration: none
-						cursor: pointer
-					a:hover
-						background-color: $blues-color
-						color: $white-color	
+			width: 100%
+			background: $bgc-nav-mnu
+			.nav_mnu_wrapp
+				display: block
+				.nav_menu
+					display: flex
+					flex-wrap: wrap
+					justify-content: space-between
+					.yslugi
+						display: block
+						text-transform: uppercase
+						list-style: none
+						font-size: 0.94em
+						line-height: 36px
+						text-align: center
+						width: 33.3%
+						transition: all .5s
+						&:hover
+							background-color: $blues-color
+							transition: all .5s
+							a
+								display: block
+								color: $text-color
+								text-decoration: none
+								cursor: pointer
+								line-height: 36px
+								width: 100%
+								&:hover
+									color: $white-color
+									transition: all .5s
+								
 		.slaider,.row
 			display: flex
 			justify-content: space-around
@@ -193,6 +206,7 @@ ul,li
 					line-height: 36px
 					text-align: center
 					font-family: "OpenSans_Semibold"
+					cursor: pointer
 					color: $btn-text-color
 					border-radius: 4px
 					-webkit-box-shadow: 2px 0 2px rgba(224,97,97,.5)
@@ -420,6 +434,7 @@ ul,li
 	.row
 		display: flex
 		justify-content: space-around
+		padding-bottom: 70px
 		.part_item
 			display: flex
 			flex-wrap: wrap
@@ -427,7 +442,6 @@ ul,li
 			align-items: center
 			flex-basis: 17%
 			height: 168px
-			margin-bottom: 70px
 			a.part_1,a.part_2,a.part_3,a.part_4,a.part_5
 				display: flex
 				width: 100%
@@ -443,7 +457,6 @@ ul,li
 				background: url(../img/sozidant.jpg)no-repeat
 			a.part_5
 				background: url(../img/pim.jpg)no-repeat	
-				
 #comment
 	text-align: center
 	.__section_descr
@@ -598,6 +611,7 @@ ul,li
 					text-transform: uppercase
 					font-family: "OpenSans_Regular"
 					font-size: 1.125em
+			
 		.number
 			width: 348px
 			height: 49px
@@ -622,11 +636,11 @@ ul,li
 			box-shadow: 0 3px 0 rgba(206,91,91,.98)
 			font-family: "OpenSans_Semibold"
 			color: $btn-text-color
-			
+			cursor: pointer
 footer
 	.row
 		display: flex
-		justify-content: space-around
+		justify-content: space-between
 		.logo
 			display: flex
 			width: 140px
