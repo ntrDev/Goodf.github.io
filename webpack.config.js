@@ -2,8 +2,6 @@ let path = require("path");
 let ExtractTextPlugin = require("extract-text-webpack-plugin");
 let HtmlWebpackPlugin = require('html-webpack-plugin');
 
-let extractMedia = new ExtractTextPlugin("extract-text-webpack-plugin");
-
 module.exports = {
     entry: './src/index.js',
     output: {
@@ -24,13 +22,29 @@ module.exports = {
                 test: /\.css$/,
                 use: ExtractTextPlugin.extract({
                     fallback: "style-loader",
-                    use: "css-loader"
+                    use: [
+                        {
+                            loader: 'css-loader',
+                            options: {
+                                // If you are having trouble with urls not resolving add this setting.
+                                // See https://github.com/webpack-contrib/css-loader#url
+                                url: false,
+                                minimize: true,
+                            }
+                        }
+                        
+                    ]
                 })
             },
 
             {
                 test: /\.html$/,
-                use: [ 'html-loader']
+                use: [ {
+                    loader: 'html-loader',
+                    options: {
+                        minimize: true
+                    }
+                }]
             },
 
             {
@@ -55,8 +69,7 @@ module.exports = {
     },
     plugins: [
         new ExtractTextPlugin("css/main.css"),
-        new ExtractTextPlugin("css/font.css"),
-        new ExtractTextPlugin("css/media.css"),
+       
         new HtmlWebpackPlugin({
             template: 'src/index.html'
         })
