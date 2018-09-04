@@ -1,5 +1,6 @@
+let webpack = require('webpack');
 let path = require("path");
-let ExtractTextPlugin = require("extract-text-webpack-plugin");
+let MiniCssExtractPlugin = require("mini-css-extract-plugin");
 let HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
@@ -20,21 +21,17 @@ module.exports = {
 
             {
                 test: /\.css$/,
-                use: ExtractTextPlugin.extract({
-                    fallback: "style-loader",
-                    use: [
-                        {
-                            loader: 'css-loader',
+                use: [
+                    {
+                            loader: MiniCssExtractPlugin.loader,
                             options: {
-                                // If you are having trouble with urls not resolving add this setting.
-                                // See https://github.com/webpack-contrib/css-loader#url
-                                url: false,
-                                minimize: true,
+                            // you can specify a publicPath here
+                            // by default it use publicPath in webpackOptions.output
+                            publicPath: '../'
                             }
-                        }
-                        
-                    ]
-                })
+                    },
+                        "css-loader"
+                ]
             },
 
             {
@@ -63,15 +60,24 @@ module.exports = {
 
             {
                 test: /\.(woff|woff2|eot|ttf|otf)$/,
-                    use: ['file-loader']
+                    loader: 'file-loader'
             }
         ]
     },
     plugins: [
-        new ExtractTextPlugin("css/main.css"),
-       
+        new MiniCssExtractPlugin({
+        // Options similar to the same options in webpackOptions.output
+        // both options are optional
+        filename: "[name].css",
+        chunkFilename: "[id].css"
+        }),
         new HtmlWebpackPlugin({
             template: 'src/index.html'
+        }),
+        new webpack.ProvidePlugin({
+            $: 'jquery',
+            jQuery: 'jquery',
+            'window.jQuery': 'jquery'
         })
     ]
     
